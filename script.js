@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const targetDate = new Date(2023, 11, 9, 0, 0, 0).getTime();
+    const targetDate = new Date(2023, 11, 9, 20, 0, 0).getTime();
   
     function checkEventStatus() {
       const now = new Date().getTime();
